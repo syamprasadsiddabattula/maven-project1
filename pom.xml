@@ -4,7 +4,7 @@
   <groupId>testproject</groupId>
   <artifactId>ProjectWeb</artifactId>
   <packaging>war</packaging>
-  <version>86.0</version>
+  <version>1.2</version>
   <name>ProjectWeb Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>project34</finalName>
+    <finalName>syamn-task1</finalName>
   </build>
 </project>
