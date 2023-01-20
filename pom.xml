@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>newproject</finalName>
+    <finalName>ssp</finalName>
   </build>
 </project>
